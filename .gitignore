@@ -49,3 +49,6 @@ po/*~
 rsconnect/
 
 TfL_vision_zero_data/
+
+/.quarto/
+**/*.quarto_ipynb
